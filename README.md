@@ -1,5 +1,5 @@
 ![cookiesguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=harukishima&show_icons=true&theme=tokyonight&include_all_commits=true&disable_animations=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harukishima&layout=compact&theme=tokyonight&langs_count=8&hide=html,cmake,c%2B%2B,handlebars,pug,glsl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harukishima&layout=compact&theme=tokyonight&langs_count=8&hide=html,cmake,c%2B%2B,handlebars,pug,glsl,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
